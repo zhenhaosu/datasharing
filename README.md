@@ -1,8 +1,7 @@
 How to share data with a statistician
 ===========
 
-What if I signed in?  
-pull to windows!
+What if I signed in?
 
 This is a guide for anyone who needs to share data with a statistician or data scientist. The target audiences I have in mind are:
 
