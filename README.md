@@ -1,9 +1,12 @@
 How to share data with a statistician
 ===========
 
+<<<<<<< HEAD
 Add something different.
 And another line.
 
+=======
+>>>>>>> parent of 5a01bb6... Update README.md
 This is a guide for anyone who needs to share data with a statistician or data scientist. The target audiences I have in mind are:
 
 * Collaborators who need statisticians or data scientists to analyze data for them
